@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "**/*.html": "html",
+    "**/requirements{/**,*}.{txt,in}": "pip-requirements",
+    "iostream": "cpp"
+  }
+}
